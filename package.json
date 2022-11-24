@@ -1,0 +1,23 @@
+{
+  "name": "basic_node",
+  "description": "Node Site setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bstrout/basic_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bstrout/basic_node/issues"
+  },
+  "homepage": "https://github.com/bstrout/basic_node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
